@@ -35,7 +35,7 @@ const Intro = () => {
           <p>
             I love building new things, starting from a blank whiteboard or early stage prototype and transforming it into something people
             truly value. I am full-stack developer with 5+ years of hands-on experience creating microservices, APIs, Desktop Application and
-            Web Applications. I am familiar the Microsoft technology stack, including C#, .NET Core, and ASP.NET. Jakub is familiar with
+            Web Applications. I am familiar the Microsoft technology stack, including C#, .NET Core, and ASP.NET. I am also familiar with
             microservice architecture and cloud-based solutions (Microsoft Azure). While working in the industrial field, I learned to deliver
             critical software systems (highly available, secure, and fast). I am also a consultant willing to work closely with his clients. I also
             have a great passion for new technology, web development, art (particularly illustration), music (playing guitar and piano), and
